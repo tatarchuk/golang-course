@@ -1,0 +1,13 @@
+# Binaries and build output
+/bin/
+*.exe
+*.test
+*.out
+
+# Go tooling
+/vendor/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
