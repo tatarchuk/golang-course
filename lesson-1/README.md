@@ -1,16 +1,8 @@
-# golang-course
+# Lesson 1
 
-Exercises and notes from a Go course I'm working through. You'll need Go 1.27 or newer (`go version` to check).
-
-Each lesson lives in its own folder with its own `go.mod`, so `cd` into the lesson before running anything.
-
-## Lesson 1
-
-Three small programs, each with its own `main`, so run them one file at a time:
+Three small programs, each with its own `main`, so run them one file at a time from this folder. You'll need Go 1.27 or newer (`go version` to check).
 
 ```sh
-cd lesson-1
-
 go run hello.go
 # Hello, World!
 
@@ -33,4 +25,4 @@ go run greetings_ai.go
 # usage: greetings_ai <username>
 ```
 
-Screenshots from the IDE and the Killercoda playground are in `lesson-1/screenshots/`.
+Screenshots from the IDE and the Killercoda playground are in `screenshots/`.
